@@ -8,8 +8,7 @@ Sistema de calculo de juros compostos.
 2. Crie um virtualenv com Python 3.9
 3. Ative seu virtualenv.
 4. Instale as dependências.
-5. Configure a instância com o .env
-6. Execute os testes
+5. Execute os testes
 
 ```console
 git clone https://github.com/MarcioRamos90/compound-interest-calculator.git compound-interest-calculator
