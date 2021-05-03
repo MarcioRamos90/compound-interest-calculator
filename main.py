@@ -20,4 +20,5 @@ if __name__ == '__main__':
     rate = float(input("Entre com a taxa %:\n"))
     frequency = int(input("Entre com a frequencia de investimento:\n"))
     period_value = int(input("Valor mensal:\n"))
-    main(initial_value, rate, frequency, period_value)
+    final_result = main(initial_value, rate, frequency, period_value)
+    print(f"seu valor no final de {frequency} meses sera de: R${final_result}")
