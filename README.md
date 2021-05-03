@@ -12,8 +12,8 @@ Sistema de calculo de juros compostos.
 6. Execute os testes
 
 ```console
-git clone https://github.com/MarcioRamos90/compound-interest.git interest-compound-calculator
-cd interest-compound-calculator
+git clone https://github.com/MarcioRamos90/compound-interest-calculator.git compound-interest-calculator
+cd compound-interest-calculator
 python -m venv .pack
 source .pack/bin/activate
 pip install -r requirements-dev.txt
